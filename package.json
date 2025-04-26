@@ -1,0 +1,15 @@
+{
+  "name": "hitokiri",
+  "packageManager": "yarn@4.6.0",
+  "private": true,
+  "maintainers": [
+    {
+      "name": "Henry Saint-Juste",
+      "email": "hsaintjuste@oneuppdev.com",
+      "url": "https://thesolutionarchitect.com"
+    }
+  ],
+  "workspaces": [
+    "packages/*"
+  ]
+}
