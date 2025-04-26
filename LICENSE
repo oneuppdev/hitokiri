@@ -1,4 +1,4 @@
-# Hitokiri Design System Open Source License (MIT-based)
+Hitokiri Design System Open Source License (MIT-based)
 
 Copyright (c) 2025 Hitokiri Design System
 
@@ -8,30 +8,25 @@ Hitokiri Design System monorepo, to deal in the Software without restriction, in
 use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to
 whom the Software is furnished to do so, subject to the following conditions:
 
-## Conditions:
+Conditions:
 
-### Attribution
-
+Attribution
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the
 Software.
 
-### No Warranty
-
+No Warranty
 The Software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the
 warranties of merchantability, fitness for a particular purpose, and noninfringement.
 
-### Liability Waiver
-
+Liability Waiver
 In no event shall the authors, contributors, or copyright holders be liable for any claim, damages, or other liability,
 whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the
 use or other dealings in the Software.
 
-### Respect for the System
-
+Respect for the System
 Any forks, derivatives, or substantial adaptations of the Hitokiri Design System are encouraged to maintain the spirit
 of precision, consistency, and mastery that Hitokiri represents.
 
-### Trademark Disclaimer
-
+Trademark Disclaimer
 The names “Hitokiri”, "Isshin", "Kensei", "Satsujin", or any related branding may not be used to endorse or promote
 derivative products without explicit prior written permission.
