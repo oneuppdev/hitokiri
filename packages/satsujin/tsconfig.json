@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "outDir": "./lib",
+    "downlevelIteration": true,
+    "target": "esnext",
+    "jsx": "react-jsx"
+  },
+  "include": ["./src"]
+}

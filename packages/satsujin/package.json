@@ -1,4 +1,17 @@
 {
   "name": "@hitokiri/satsujin",
-  "packageManager": "yarn@4.6.0"
+  "packageManager": "yarn@4.6.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "react": ">=16.8"
+  },
+  "dependencies": {
+    "@hitokiri/isshin": "workspace:^"
+  },
+  "devDependencies": {
+    "del-cli": "7.0.0",
+    "typescript": "5.9.2"
+  }
 }
